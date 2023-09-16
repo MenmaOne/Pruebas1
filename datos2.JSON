@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Juan",
+    "apellidos": "Pérez García",
+    "fecha_nacimiento": "1999-03-15",
+    "carrera": "ADM",
+    "estatus": "Inscrito",
+    "email": "juan.perez@mail.com",
+    "telefono": "555-123-4567",
+    "direccion": "Calle 1, Colonia 2, Ciudad 3"
+  },
+  {
+    "nombre": "María",
+    "apellidos": "Hernández López",
+    "fecha_nacimiento": "2000-07-20",
+    "carrera": "PSIC",
+    "estatus": "No Inscrito",
+    "email": "maria.hernandez@mail.com",
+    "telefono": null,
+    "direccion": "Calle 4, Colonia 5, Ciudad 6"
+  },
+  {
+    "nombre": "Carlos",
+    "apellidos": "González Rodríguez",
+    "fecha_nacimiento": "1998-12-05",
+    "carrera": "ISC",
+    "estatus": "Inscrito",
+    "email": "carlos.gonzalez@mail.com",
+    "telefono": "555-987-6543",
+    "direccion": null
+  },
+  {
+    "nombre": "Ana",
+    "apellidos": "Martínez Pérez",
+    "fecha_nacimiento": "1997-05-10",
+    "carrera": "MEDI",
+    "estatus": "Inscrito",
+    "email": null,
+    "telefono": null,
+    "direccion": "Calle 7, Colonia 8, Ciudad 9"
+  },
+  {
+    "nombre": "Pedro",
+    "apellidos": "López Sánchez",
+    "fecha_nacimiento": "1999-11-30",
+    "carrera": "CIV",
+    "estatus": "No Inscrito",
+    "email": null,
+    "telefono": "555-555-5555",
+    "direccion": "Calle 10, Colonia 11, Ciudad 12"
+  }
+]
